@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@500&family=Cinzel+Decorative:wght@700&family=MedievalSharp&display=swap');
+/*logo nome*/
+.logonome{
+    font-family: 'Bitter', serif;
+    font-size: 40px;
+}
+/*navbar*/
+.navbar{
+    background-color: #640064;
+}
+/*background section*/
+.background{
+    background-color: black;
+}
+/*background imagem*/
+.imagem{
+    height: auto;
+    margin-top:-10px;
+    width: 100%;
+    z-index: -1;
+    position: relative; 
+}
+/*divisão entre a imagem e o texto principal*/
+.divisao{
+    position: relative;
+    width: 100%;
+    margin-top: -50px;
+}
